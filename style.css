@@ -2,7 +2,7 @@ h1{
     background-color: rgb(48, 46, 46);
     color: orange;
 }
-p.left{
+h2.left{
     position: relative;
     left: 12%;
     top: 30px;
@@ -11,7 +11,7 @@ img.izquierda{
     position: relative;
     left: 10px;
 }
-p.derecha{
+h2.derecha{
     position: relative;
     right: -79%;
     top: -33px;
