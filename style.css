@@ -1,0 +1,60 @@
+h1{
+    background-color: rgb(48, 46, 46);
+    color: rgb(9, 255, 0);
+}
+p.left{
+    position: relative;
+    left: 12%;
+    top: 30px;
+}
+img.izquierda{
+    position: relative;
+    left: 10px;
+}
+p.derecha{
+    position: relative;
+    right: -79%;
+    top: -33px;
+}
+img.derecha{
+    position: relative;
+    right: -400px;
+}
+p.advertencia{
+    color: red;
+}
+
+header {
+    text-align: center;
+}
+
+section.encuesta {
+    position: relative;
+   left: 600px;
+   top: 60px;
+}
+
+input.centro {
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+
+section.contacto {
+    position: relative;
+    left: 650px;
+    top: 60px;
+}
+
+pre.abajo {
+    position: relative;
+    left: 20px;
+    top: 120px;
+}
+
+footer {
+    background-color: rgb(0, 214, 0);
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
